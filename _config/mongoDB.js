@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
-const online = true;
-const url =  online ? 'mongodb://api:api@ds113670.mlab.com:13670/cep' : 'mongodb://localhost/seed-atomic';
+const online = false;
+const url =  online ? '' : 'mongodb://localhost/seed-atomic';
 
 mongoose.Promise = require('bluebird')
 
