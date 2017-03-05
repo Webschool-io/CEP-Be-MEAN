@@ -1,0 +1,32 @@
+{
+  "name": "seed-atomic",
+  "version": "0.0.1",
+  "description": "modelo atomic para seed",
+  "main": "app.js",
+  "scripts": {
+    "start": "node  app.js"
+  },
+  "keywords": [
+    "atomic",
+    "nodejs",
+    "mongodb",
+    "mean",
+    "api"
+  ],
+  "author": "Higor Diego",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cluster": "^0.7.7",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-validator": "^3.1.2",
+    "http": "0.0.0",
+    "jsonwebtoken": "^7.2.1",
+    "mongoose": "^4.7.7",
+    "mongoose-redis-cache": "0.0.3",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.1",
+    "request": "^2.79.0"
+  }
+}
