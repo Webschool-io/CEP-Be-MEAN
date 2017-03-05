@@ -15,6 +15,7 @@ Envie um CEP nos seguintes formatos com **{8}** ou **{9}** digitos.
 Utilize os seguintes exemplos.
 
 > [https://cep-bemean.herokuapp.com/api/br/88370410](https://cep-bemean.herokuapp.com/api/br/88370410) 
+> </br>
 > [https://cep-bemean.herokuapp.com/api/br/88370-410](https://cep-bemean.herokuapp.com/api/br/88370-410)
 
 Retorno em **Json**:
