@@ -40,7 +40,7 @@ Retorno em **Json**:
 <img src="/img/heroku.png" width="100" height="100">
 <img src="/img/mlab.png" height="100">
 
-## Próxima Implatação
+## Próxima Tecnologia
 <img src="/img/redis.png">
 
 
