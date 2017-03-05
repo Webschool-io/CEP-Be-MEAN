@@ -1,8 +1,8 @@
 #API CEP-BEMEAN
-Primeiramente acesse o link [aqui](https://cep-bemean.herokuapp.com).
+Primeiramente acesse o link [https://cep-bemean.herokuapp.com](https://cep-bemean.herokuapp.com).
 </br>
-<img src="/img/webschool.png" width="100" height="100">
-<img src="/img/bemean.png" width="100" height="100">
+<img src="/img/webschool.png" width="100">
+<img src="/img/bemean.png" width="150">
 
 ## A Idéia:
 Em conversa com [Higor Diego](https://github.com/higordiego) e [Michel Souza](https://github.com/souzacristsf), resolvemos criar uma api de CEP para os alunos e as demais pessoas que amam projetos open source. Então em menos de 2 dias o projeto já estava rebendo mais de 50 requisições/dias e crescendo. 
