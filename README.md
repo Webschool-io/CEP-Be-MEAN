@@ -38,16 +38,14 @@ Retorno em **Json**:
 <img src="/img/nodejs.png" width="100" height="100">
 <img src="/img/redis1.png" width="120" height="100">
 
-
-
-
 ## Hosting Cloud
 <img src="/img/digitalocean.png" width="100" height="100">
 <img src="/img/mlab.png" height="100">
 <!--<img src="/img/heroku.png" width="100" height="100">-->
 
 ## Próxima Tecnologia
-<img src="/img/correios.jpg" width="100" height="100">
+Iremos integrar com os serviços dos correios.
+<img src="/img/correios.jpg" width="250" height="120">
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
