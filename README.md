@@ -35,13 +35,13 @@ Retorno em **Json**:
 <img src="/img/express.png" width="100" height="100">
 <img src="/img/mongodb.png" width="100" height="100">
 <img src="/img/nodejs.png" width="100" height="100">
-
+<img src="/img/redis.png">
 ## Hosting Cloud
 <img src="/img/heroku.png" width="100" height="100">
 <img src="/img/mlab.png" height="100">
 
 ## Próxima Tecnologia
-<img src="/img/redis.png">
+<img src="/img/digitalocean.png">
 
 
 ## CEP não encontrado ou retornamos um desatualizado?
