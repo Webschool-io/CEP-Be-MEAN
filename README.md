@@ -25,7 +25,8 @@ Retorno em **Json**:
     "state": "SC",
     "district": "Centro",
     "address": "Rua Ezequiel Antero Rocha",
-    "city": "Navegantes"
+    "city": "Navegantes",
+    "ibge": "4211306"
 }
 ```
 
