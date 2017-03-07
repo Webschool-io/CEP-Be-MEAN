@@ -1,5 +1,5 @@
 #API CEP-BEMEAN
-Primeiramente acesse o link [https://cep-bemean.herokuapp.com](https://cep-bemean.herokuapp.com).
+Primeiramente acesse o link [https://cep.webschool.io](https://cep.webschool.io).
 </br>
 <img src="/img/webschool.png" width="100">
 <img src="/img/bemean.png" width="150">
@@ -14,9 +14,9 @@ Conforme esse projeto for evoluindo, documentaremos com alguns exemplos de utili
 Envie um CEP nos seguintes formatos com **{8}** ou **{9}** digitos. 
 Utilize os seguintes exemplos.
 
-> [https://cep-bemean.herokuapp.com/api/br/88370410](https://cep-bemean.herokuapp.com/api/br/88370410) 
+> [https://cep.webschool.io/api/br/88370410](https://cep.webschool.io/api/br/88370410) 
 > </br>
-> [https://cep-bemean.herokuapp.com/api/br/88370-410](https://cep-bemean.herokuapp.com/api/br/88370-410)
+> [https://cep.webschool.io/api/br/88370-410](https://cep.webschool.io/api/br/88370-410)
 
 Retorno em **Json**:
 ```javascript
@@ -38,12 +38,9 @@ Retorno em **Json**:
 <img src="/img/nodejs.png" width="100" height="100">
 <img src="/img/redis1.png" width="120" height="100">
 ## Hosting Cloud
-<img src="/img/heroku.png" width="100" height="100">
-<img src="/img/mlab.png" height="100">
-
-## Próxima Tecnologia
 <img src="/img/digitalocean.png" width="100" height="100">
-
+<!--<img src="/img/heroku.png" width="100" height="100">-->
+<img src="/img/mlab.png" height="100">
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
