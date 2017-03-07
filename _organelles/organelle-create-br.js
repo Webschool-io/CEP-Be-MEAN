@@ -12,6 +12,7 @@ module.exports = (Organism) =>
 	object.state = body.uf || body.estado || body.uf_sigla
 	object.district = body.bairro
 	object.address = body.logradouro.length > 3 ? body.logradouro : body.logradouro_completo
+	object.ibge = body.ibge || body.cidade_info.codigo_ibge
 	
 	const success = require('./ribossomos/success-200-json')(res)
 	const error = require('./ribossomos/error-json')(res)
@@ -23,7 +24,8 @@ module.exports = (Organism) =>
 			state: organism.state,
 			district: organism.district,
 			address: organism.address,
-			city: organism.city
+			city: organism.city,
+			ibge: organism.ibge
 		}
 		res.json(object)
 	})
