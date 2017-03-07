@@ -41,7 +41,7 @@ Retorno em **Json**:
 <img src="/img/mlab.png" height="100">
 
 ## Próxima Tecnologia
-<img src="/img/digitalocean.png">
+<img src="/img/digitalocean.png" width="100" height="100">
 
 
 ## CEP não encontrado ou retornamos um desatualizado?
