@@ -35,7 +35,7 @@ Retorno em **Json**:
 <img src="/img/express.png" width="100" height="100">
 <img src="/img/mongodb.png" width="100" height="100">
 <img src="/img/nodejs.png" width="100" height="100">
-<img src="/img/redis1.png">
+<img src="/img/redis1.png" width="100" height="100">
 ## Hosting Cloud
 <img src="/img/heroku.png" width="100" height="100">
 <img src="/img/mlab.png" height="100">
