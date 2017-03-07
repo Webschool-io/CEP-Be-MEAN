@@ -44,8 +44,7 @@ Retorno em **Json**:
 <!--<img src="/img/heroku.png" width="100" height="100">-->
 
 ## Próxima Tecnologia
-Iremos integrar com os serviços dos correios.
-
+Iremos integrar com os serviços dos correios.                                         
 <img src="/img/correios.jpg" width="250" height="120">
 
 ## CEP não encontrado ou retornamos um desatualizado?
